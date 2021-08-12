@@ -9,10 +9,10 @@
 - :white_check_mark: Welcome https://tryhackme.com/jr/welcome
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals
+- :white_check_mark: Learn Linux https://tryhackme.com/module/linux-fundamentals
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
-**Introductory CTFs to get your feet wet**\
+### Introductory CTFs to get your feet wet
 
 - [ ] Google Dorking https://tryhackme.com/room/googledorking
 - [ ] OHsint https://tryhackme.com/room/ohsint
@@ -31,7 +31,7 @@
 - [ ] Shodan https://tryhackme.com/room/shodan
 - [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
 
-**More introductory CTFs**\
+## More introductory CTFs
 
 - [ ] Vulnversity - https://tryhackme.com/room/vulnversity
 - [ ] Blue - https://tryhackme.com/room/blue
