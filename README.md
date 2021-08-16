@@ -7,7 +7,7 @@
 
 - :white_check_mark: OpenVPN https://tryhackme.com/room/openvpn
 - :white_check_mark: Welcome https://tryhackme.com/jr/welcome
-- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
+- :white_check_mark: Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
 - :white_check_mark: Learn Linux https://tryhackme.com/module/linux-fundamentals
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
