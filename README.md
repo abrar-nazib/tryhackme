@@ -1,15 +1,15 @@
 # Tracking CTF
 
-:white_check_mark:
+[x]
 :hourglass:
 
 ## Level 1 - Intro
 
-- :white_check_mark: OpenVPN https://tryhackme.com/room/openvpn
-- :white_check_mark: Welcome https://tryhackme.com/jr/welcome
-- :white_check_mark: Intro to Researching https://tryhackme.com/room/introtoresearch
-- :white_check_mark: The Hacker Methodology https://tryhackme.com/room/hackermethodology
-- :white_check_mark: Learn Linux https://tryhackme.com/module/linux-fundamentals
+- [x] OpenVPN https://tryhackme.com/room/openvpn
+- [x] Welcome https://tryhackme.com/jr/welcome
+- [x] Intro to Researching https://tryhackme.com/room/introtoresearch
+- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology
+- [x] Learn Linux https://tryhackme.com/module/linux-fundamentals
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 ### Introductory CTFs to get your feet wet
