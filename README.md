@@ -16,7 +16,7 @@
 
 - [x] Google Dorking https://tryhackme.com/room/googledorking
 - [x] OHsint https://tryhackme.com/room/ohsint
-- [ ] Shodan.io https://tryhackme.com/room/shodan
+- :hourglass: Shodan.io https://tryhackme.com/room/shodan 
 
 ## Level 2 - Tooling
 
