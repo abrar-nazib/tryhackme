@@ -23,7 +23,7 @@
 - [x] Tmux https://tryhackme.com/room/rptmux
 - [x] Nmap https://tryhackme.com/room/furthernmap
 - [x] Web Scanning https://tryhackme.com/room/rpwebscanning
-- [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
+- [x] Sublist3r https://tryhackme.com/room/rpsublist3r
 - [ ] Metasploit https://tryhackme.com/room/rpmetasploit
 - [ ] Hydra https://tryhackme.com/room/hydra
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
