@@ -1,7 +1,6 @@
 # Tracking CTF
 
-[x]
-:hourglass:
+- [x] :hourglass:
 
 ## Level 1 - Intro
 
@@ -16,12 +15,12 @@
 
 - [x] Google Dorking https://tryhackme.com/room/googledorking
 - [x] OHsint https://tryhackme.com/room/ohsint
-- :hourglass: Shodan.io https://tryhackme.com/room/shodan 
+- :hourglass: Shodan.io https://tryhackme.com/room/shodan
 
 ## Level 2 - Tooling
 
-- [ ] Tmux https://tryhackme.com/room/rptmux
-- [ ] Nmap https://tryhackme.com/room/furthernmap
+- [x] Tmux https://tryhackme.com/room/rptmux
+- [x] Nmap https://tryhackme.com/room/furthernmap
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
 - [ ] Metasploit https://tryhackme.com/room/rpmetasploit
