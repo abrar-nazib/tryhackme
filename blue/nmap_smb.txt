@@ -1,0 +1,25 @@
+# Nmap 7.80 scan initiated Sat Jan 15 16:21:49 2022 as: nmap -v --script=smb-vuln-ms17-010 -p 445 -oN nmap_smb.txt 10.10.12.212
+Nmap scan report for 10.10.12.212
+Host is up (0.22s latency).
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+
+Host script results:
+| smb-vuln-ms17-010: 
+|   VULNERABLE:
+|   Remote Code Execution vulnerability in Microsoft SMBv1 servers (ms17-010)
+|     State: VULNERABLE
+|     IDs:  CVE:CVE-2017-0143
+|     Risk factor: HIGH
+|       A critical remote code execution vulnerability exists in Microsoft SMBv1
+|        servers (ms17-010).
+|           
+|     Disclosure date: 2017-03-14
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-0143
+|       https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
+|_      https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Jan 15 16:21:51 2022 -- 1 IP address (1 host up) scanned in 2.49 seconds

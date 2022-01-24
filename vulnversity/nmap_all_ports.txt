@@ -1,0 +1,1 @@
+# Nmap 7.80 scan initiated Sat Jan 15 02:27:45 2022 as: nmap -p- -A -sC -sV -oN nmap_all_ports.txt -v 10.10.48.85

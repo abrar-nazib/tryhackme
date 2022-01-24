@@ -1,0 +1,4 @@
+[+] Salt for password found: 1ev
+[+] Username found: mit3Iq35qDWqE9n
+[+] Email found: admtfsUoauWu
+[+] Password found: 0c01f4468
