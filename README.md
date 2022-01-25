@@ -39,7 +39,7 @@
 
 ## Level 3 - Crypto & Hashes with CTF practice
 
-- [ ] Crack the hash https://tryhackme.com/room/crackthehash
+- [x] Crack the hash https://tryhackme.com/room/crackthehash
 - [ ] Agent Sudo https://tryhackme.com/room/agentsudoctf
 - [ ] The Cod Caper https://tryhackme.com/room/thecodcaper
 - [ ] Ice https://tryhackme.com/room/ice
