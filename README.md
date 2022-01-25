@@ -34,7 +34,7 @@
 - [x] Vulnversity - https://tryhackme.com/room/vulnversity
 - [x] Blue - https://tryhackme.com/room/blue
 - [x] Simple CTF https://tryhackme.com/room/easyctf
-- [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
+- [x] Bounty Hacker https://tryhackme.com/room/cowboyhacker
 - [ ] Brute It https://tryhackme.com/room/bruteit
 
 ## Level 3 - Crypto & Hashes with CTF practice
