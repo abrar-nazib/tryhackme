@@ -42,7 +42,7 @@
 - [x] Crack the hash https://tryhackme.com/room/crackthehash
 - [x] Agent Sudo https://tryhackme.com/room/agentsudoctf
 - [x] The Cod Caper https://tryhackme.com/room/thecodcaper
-- [ ] Ice https://tryhackme.com/room/ice
+- [x] Ice https://tryhackme.com/room/ice
 - [ ] Lazy Admin https://tryhackme.com/room/lazyadmin
 - [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 
