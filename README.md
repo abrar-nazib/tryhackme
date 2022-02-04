@@ -26,7 +26,7 @@
 - [x] Sublist3r https://tryhackme.com/room/rpsublist3r
 - [x] Metasploit https://tryhackme.com/room/rpmetasploit
 - [x] Hydra https://tryhackme.com/room/hydra
-- :hourglass: Linux Privesc https://tryhackme.com/room/linuxprivesc
+- [x] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [x] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
 
 ## More introductory CTFs
