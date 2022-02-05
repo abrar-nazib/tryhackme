@@ -16,7 +16,7 @@
 
 - [x] Google Dorking https://tryhackme.com/room/googledorking
 - [x] OHsint https://tryhackme.com/room/ohsint
-- :hourglass: Shodan.io https://tryhackme.com/room/shodan
+- [x] Shodan.io https://tryhackme.com/room/shodan
 
 ## Level 2 - Tooling
 
@@ -44,7 +44,7 @@
 - [x] The Cod Caper https://tryhackme.com/room/thecodcaper
 - [x] Ice https://tryhackme.com/room/ice
 - [x] Lazy Admin https://tryhackme.com/room/lazyadmin
-- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+- [x] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 
 ## Level 4 - Web
 
