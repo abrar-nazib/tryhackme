@@ -48,8 +48,8 @@
 
 ## Level 4 - Web
 
-- [ ] OWASP top 10 https://tryhackme.com/room/owasptop10
-- [ ] Inclusion https://tryhackme.com/room/inclusion
+- [x] OWASP top 10 https://tryhackme.com/room/owasptop10
+- [x] Inclusion https://tryhackme.com/room/inclusion
 - [ ] Injection https://tryhackme.com/room/injection
 - [ ] Vulnversity https://tryhackme.com/room/vulnversity
 - [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
