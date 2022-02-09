@@ -1,0 +1,14 @@
+POST /rest/user/login HTTP/1.1
+Host: 10.10.220.189
+Content-Length: 51
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+Content-Type: application/json
+Origin: http://10.10.220.189
+Referer: http://10.10.220.189/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: language=en; cookieconsent_status=dismiss; io=27PGPUWbN1jT3isDAAAM
+Connection: close
+
+{"email":"admin@juice-sh.op","password":"admin123"}
