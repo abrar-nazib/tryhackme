@@ -1,0 +1,27 @@
+# Nmap 7.80 scan initiated Sun Feb 13 12:43:29 2022 as: nmap -vvv -p 80,8080 -A -vv -sV -sC -oN scans/nmap.txt 10.10.76.56
+Nmap scan report for 10.10.76.56
+Host is up, received conn-refused (0.20s latency).
+Scanned at 2022-02-13 12:43:29 +06 for 36s
+
+PORT     STATE SERVICE REASON  VERSION
+80/tcp   open  http    syn-ack Apache httpd 2.4.29 ((Ubuntu))
+| http-methods: 
+|_  Supported Methods: OPTIONS HEAD GET POST
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Apache2 Ubuntu Default Page: It works
+8080/tcp open  http    syn-ack Apache httpd 2.4.29 ((Ubuntu))
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+|_http-favicon: Unknown favicon MD5: 1E02066A2AE083F6FE08C36C95666789
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+| http-open-proxy: Potentially OPEN proxy.
+|_Methods supported:CONNECTION
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Simple Image Gallery System
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Feb 13 12:44:05 2022 -- 1 IP address (1 host up) scanned in 36.56 seconds
