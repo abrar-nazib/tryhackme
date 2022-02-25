@@ -61,18 +61,18 @@
 
 ## Level 5 - Reverse Engineering
 
-- [ ] Intro to x86 64 https://tryhackme.com/room/introtox8664
-- [ ] CC Ghidra https://tryhackme.com/room/ccghidra
-- [ ] CC Radare2 https://tryhackme.com/room/ccradare2
-- [ ] CC Steganography https://tryhackme.com/room/ccstego
-- [ ] Reverse Engineering https://tryhackme.com/room/reverseengineering
+- [x] Intro to x86 64 https://tryhackme.com/room/introtox8664
+- [x] CC Ghidra https://tryhackme.com/room/ccghidra
+- [x] CC Radare2 https://tryhackme.com/room/ccradare2
+- [x] CC Steganography https://tryhackme.com/room/ccstego
+- [x] Reverse Engineering https://tryhackme.com/room/reverseengineering
 - [ ] Reversing ELF https://tryhackme.com/room/reverselfiles
 - [ ] Dumping Router Firmware https://tryhackme.com/room/rfirmware
 
 ## Level 6 - Networking
 
-- [ ] Introduction to Networking https://tryhackme.com/room/introtonetworking
-- [ ] Smag Grotto https://tryhackme.com/room/smaggrotto
+- [x] Introduction to Networking https://tryhackme.com/room/introtonetworking
+- [x] Smag Grotto https://tryhackme.com/room/smaggrotto
 - [ ] Overpass 2 https://tryhackme.com/room/overpass2hacked
 
 ## Level 7 - PrivEsc
@@ -91,9 +91,9 @@
 ## Level 8 - CTF practice
 
 - [ ] Post Exploitation Basics https://tryhackme.com/room/postexploit
-- [ ] Inclusion https://tryhackme.com/room/inclusion
-- [ ] Dogcat https://tryhackme.com/room/dogcat
-- [ ] LFI basics https://tryhackme.com/room/lfibasics
+- [x] Inclusion https://tryhackme.com/room/inclusion
+- [x] Dogcat https://tryhackme.com/room/dogcat
+- [x] LFI basics https://tryhackme.com/room/lfibasics
 - [ ] Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep
 - [ ] Overpass https://tryhackme.com/room/overpass
 - [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1

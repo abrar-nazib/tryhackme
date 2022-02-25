@@ -1,0 +1,19 @@
+# Nmap 7.80 scan initiated Tue Feb 15 15:13:12 2022 as: nmap -vvv -p 22 -A -vv -sV -sC -oN scans/nmap.txt 10.10.208.162
+Nmap scan report for 10.10.208.162
+Host is up, received conn-refused (0.24s latency).
+Scanned at 2022-02-15 15:13:13 +06 for 11s
+
+PORT   STATE SERVICE REASON  VERSION
+22/tcp open  ssh     syn-ack OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 80:57:1e:79:c4:4b:89:ae:f0:ef:b5:40:f7:99:92:1b (RSA)
+| ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4JwXSXD12Molcspz2xgADq51PbfP3tLKQaRJ9PLY8HoXAYmx6HRR0IFS7mzqRb5Y3YBEsfMI9FWuwCpTtFXL6lVdNd6mODC43WenrFuyKaSc6jhjrPw98gSYXLXN+CAwMfm42ZDoQr00kn1F2IBDh/+M6k/TMiNTogRt0ICcqTzrAp9/jBw3Cg5QGBf5Ac2qxh4JT888YuWquS/X50+p+onPYAErcL5Z1u9C2FHqlH8txZJkOk5TBasA+vwRstuG4OSK8r+A9AWbHfp3/JFoEtCRL0+0kl/JrCIk4MyPqC5f4vNtsDkJ2KgsWul7DqMbl7iM03569K/ZXccrHm0Eb
+|   256 fe:fe:32:76:12:fc:7f:73:0e:ac:5f:82:3f:e7:d8:6e (ECDSA)
+| ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAkFjjDaQpunaqkjb6m44E8vHl4VOOdZgPkGVVljIXE1LmsIk4KTQiwpo8ro4jz2x0QaAqE37Hv6f5sygEX5zNo=
+|   256 9f:b8:83:f8:e3:3a:91:73:17:be:ae:b4:00:0f:8c:a8 (ED25519)
+|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFZPj9NyItVRcuFIBtaIAcJiyRZKLcqEDfOWy3EZRYDg
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Feb 15 15:13:24 2022 -- 1 IP address (1 host up) scanned in 11.69 seconds
