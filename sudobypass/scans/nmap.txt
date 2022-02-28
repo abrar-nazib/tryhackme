@@ -1,0 +1,27 @@
+# Nmap 7.80 scan initiated Sat Feb 26 22:24:37 2022 as: nmap -vvv -p 2222,4444 -A -vv -sV -sC -oN scans/nmap.txt 10.10.185.229
+Nmap scan report for 10.10.185.229
+Host is up, received conn-refused (0.23s latency).
+Scanned at 2022-02-26 22:24:37 +06 for 8s
+
+PORT     STATE SERVICE REASON  VERSION
+2222/tcp open  ssh     syn-ack OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 e0:90:ab:18:cf:33:8e:a0:80:56:88:4e:f5:d1:08:e5 (RSA)
+| ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGFU7ga9A7w7+JlYqo9AbdF+aQInWTViGxb3KVnekPrToiV6b58nN9k0cOGxGIGvo6hyfSi5Y+5p8WTjrW8ebY5If7q/g3v4iEq/lZqj8OPayrRcCsrQRFuhl9dLNpvU+jH2Ya73Nb1rovgg4QXAnDBf7zDf77f6odkIpfNJMAVPNugEtcBW3xRFa5fIQSllI7w0uJe5q9lZ8P92mRksea+L8Eq3OI+xRbsuLR8SS5myy82qGIb2QkqQl+CBOLp3VSzqbnpAW/5Gy1ysGL5vka4M1AhXZ46Cnbk08EvD9DMLSak2aWqMv6D8KIAyhOB3Euj8rzOQVwWV0LGqgZWN0d
+|   256 23:2f:66:45:46:95:64:86:cc:0d:df:de:c5:96:d6:1a (ECDSA)
+| ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJ0+qGBnOUJ/ia5Xl6ceh6Hx3MC4KxiPKw6Y/gJ2WAsU13x3muTWiQSJ+KqafOTMjpPtKKJV7VdVjUx+owTAov8=
+|   256 64:15:bf:d5:7c:80:ed:87:d8:7d:73:d1:75:f1:d1:80 (ED25519)
+|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINT/r2Jy5Th+7krCU4UGKUGEF+7dpdKbNKPzNAIG/me8
+4444/tcp open  ssh     syn-ack OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 e8:b0:de:c4:6e:2b:85:6b:84:8f:02:a1:e6:cc:50:ed (RSA)
+| ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9saZEikWboT+uHh1SiJOnOICkcohEjPepCyO4o/u89xwD84E8n7mK4/2QiE6qqsuDVHyhHfMGHzmMaWJ2RqvO5SqZrZum+aaW2IKh6UFF+pk0pI4Q4aS2eOjHMUlnhjNcq4eDWc2MxdegjPijfpYHHH2qqnNWJYFkNAO1poKVw6JRS78nmiW4Dj395Qr2EhBiS0YWkZ5bLGFw7sTde/HFwOzIj8QKNJ+iTYMb0L5Gre4CeEsY2AJJGPPSx28qFtsMQvtFb/7PuSwuqlNnD+cLL+3Vh5FpUYVeZvKoUK7omJ6lk8k4s79hCi1L8PnKy+jt7ATP1zHLJXrRWLQlWOZt
+|   256 f1:da:c3:75:d4:a4:99:c7:ec:b7:e3:47:bf:42:82:d9 (ECDSA)
+| ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBB3HfWEi/7U6Rpdz1aox4k03a7jkU27H6RQVKo3sDRTIF1NTgv0DyOSmA0PCixwd0ihnxAInQpOO3Tyt1LQyNio=
+|   256 79:dc:28:3f:19:9a:2c:34:4b:be:9f:fc:3a:82:79:3b (ED25519)
+|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPWlOyxgqwB4UTmwUkXfSMdgzzKJEMsU393I2tajLctX
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Feb 26 22:24:45 2022 -- 1 IP address (1 host up) scanned in 7.74 seconds

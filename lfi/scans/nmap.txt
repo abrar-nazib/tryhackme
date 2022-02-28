@@ -1,0 +1,15 @@
+# Nmap 7.80 scan initiated Fri Feb 25 21:57:57 2022 as: nmap -vvv -p 80 -A -vv -sV -sC -oN scans/nmap.txt 10.10.105.64
+Nmap scan report for 10.10.105.64
+Host is up, received conn-refused (0.17s latency).
+Scanned at 2022-02-25 21:57:57 +06 for 11s
+
+PORT   STATE SERVICE REASON  VERSION
+80/tcp open  http    syn-ack Apache httpd 2.4.18 ((Ubuntu))
+| http-methods: 
+|_  Supported Methods: POST OPTIONS GET HEAD
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+|_http-title:  LFI Learning 
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Feb 25 21:58:08 2022 -- 1 IP address (1 host up) scanned in 11.54 seconds

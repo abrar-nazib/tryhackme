@@ -57,7 +57,7 @@
 - [x] Year of the Rabbit https://tryhackme.com/room/yearoftherabbit
 - [x] DevelPy https://tryhackme.com/room/bsidesgtdevelpy
 - [x] Jack of all trades https://tryhackme.com/room/jackofalltrades
-- [ ] Bolt https://tryhackme.com/room/bolt
+- [x] Bolt https://tryhackme.com/room/bolt
 
 ## Level 5 - Reverse Engineering
 
@@ -77,8 +77,8 @@
 
 ## Level 7 - PrivEsc
 
-- [ ] Sudo Security Bypass https://tryhackme.com/room/sudovulnsbypass
-- [ ] Sudo Buffer Overflow https://tryhackme.com/room/sudovulnsbof
+- [x] Sudo Security Bypass https://tryhackme.com/room/sudovulnsbypass
+- [x] Sudo Buffer Overflow https://tryhackme.com/room/sudovulnsbof
 - [ ] Windows Privesc Arena https://tryhackme.com/room/windowsprivescarena
 - [ ] Linux Privesc Arena https://tryhackme.com/room/linuxprivescarena
 - [ ] Windows Privesc https://tryhackme.com/room/windows10privesc
@@ -95,7 +95,7 @@
 - [x] Dogcat https://tryhackme.com/room/dogcat
 - [x] LFI basics https://tryhackme.com/room/lfibasics
 - [ ] Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep
-- [ ] Overpass https://tryhackme.com/room/overpass
+- [x] Overpass https://tryhackme.com/room/overpass
 - [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1
 - [ ] Lian Yu https://tryhackme.com/room/lianyu
 
