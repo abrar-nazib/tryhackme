@@ -83,9 +83,9 @@
 - [ ] Linux Privesc Arena https://tryhackme.com/room/linuxprivescarena
 - [ ] Windows Privesc https://tryhackme.com/room/windows10privesc
 - [ ] Blaster https://tryhackme.com/room/blaster
-- [ ] Ignite https://tryhackme.com/room/ignite
+- [x] Ignite https://tryhackme.com/room/ignite
 - [ ] Kenobi https://tryhackme.com/room/kenobi
-- [ ] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
+- [x] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
 
 ## Level 8 - CTF practice
@@ -97,7 +97,7 @@
 - [ ] Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep
 - [x] Overpass https://tryhackme.com/room/overpass
 - [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1
-- [ ] Lian Yu https://tryhackme.com/room/lianyu
+- [x] Lian Yu https://tryhackme.com/room/lianyu
 
 ## Level 9 - Windows
 
