@@ -86,7 +86,7 @@
 - [x] Ignite https://tryhackme.com/room/ignite
 - [ ] Kenobi https://tryhackme.com/room/kenobi
 - [x] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
-- [ ] Pickle Rick https://tryhackme.com/room/picklerick
+- [x] Pickle Rick https://tryhackme.com/room/picklerick
 
 ## Level 8 - CTF practice
 
